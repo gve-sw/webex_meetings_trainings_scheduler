@@ -1,0 +1,5 @@
+MeetingName,Host,SessionType,MeetingTemplate,StartTime,EndTime,Duration,Attendees,TheDate,DayNumber,PeriodNumber,PeriodName
+Meeting 1,jbanegas@cisco.com,M,Lesson,26/03/2020 12:00,24/03/2020 12:05,20,jbanegas1997@hotmail.com; jjb87@miami.edu,19/03/2020,9,3,Period 1
+Meeting 2,jbanegas@cisco.com,M,Lesson,26/03/2020 17:00,24/03/2020 12:05,20,jbanegas1997@hotmail.com; jjb87@miami.edu,19/03/2020,9,3,Period 5
+Meeting 3,jbanegas@cisco.com,M,Lesson,26/03/2020 12:05,24/03/2020 12:05,20,jbanegas1997@hotmail.com; jjb87@miami.edu,19/03/2020,9,3,Period 1
+Meeting 4,jbanegas@cisco.com,M,Lesson,26/03/2020 7:05,24/03/2020 12:05,20,jbanegas1997@hotmail.com; jjb87@miami.edu,19/03/2020,9,3,Period 5
