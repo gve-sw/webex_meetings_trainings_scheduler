@@ -304,7 +304,7 @@ def CreateMeeting(sessionSecurityContext,
                     ):
 
     #remove the domain from host email
-    host = host.split("@")[0]
+    #host = host.split("@")[0]
 
     request = f'''<?xml version="1.0" encoding="UTF-8"?>
         <serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service"
