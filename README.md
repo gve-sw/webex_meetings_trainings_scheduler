@@ -2,9 +2,9 @@
 Script that schedules Webex Meetings/Trainings using information provided from a xlsx (Excel) or CSV file
 
 ### NOTE
-A more complete sample based on this one, but that only focusing on Webex Meetings can be found here: 
-https://github.com/gve-sw/webex_meetings_scheduler
-Please use that sample if you are only going to be working with Webex Meetings and not Webex Trainings.
+A more complete sample based on this one, but that only focusing on Webex Meetings can be found here:   
+https://github.com/gve-sw/webex_meetings_scheduler  
+Please use that sample if you are only going to be working with Webex Meetings and not Webex Trainings.  
 
 
 ### Author:
